@@ -23,5 +23,14 @@
     "iconName": "css"
   },
   "biasPenaltyMultiplier": 1.05,
-  "cardTemplate": "CssSnippetCard"
+  "cardTemplate": "CssSnippetCard",
+  "description": "The CSS snippet collection contains utilities and interactive examples for CSS3. It includes modern techniques for creating commonly-used layouts, styling and animating elements, as well as snippets for handling user interactions.",
+  "tagMetadata": {
+    "animation": {
+      "name": "CSS Animations"
+    },
+    "layout": {
+      "name": "CSS Layouts"
+    }
+  }
 }
