@@ -10,6 +10,7 @@
     "blog/blog",
     "tag/js/t/node",
     "language/react",
+    "collection/c/js-array-tricks",
     "collection/c/css-centering"
   ]
 }
