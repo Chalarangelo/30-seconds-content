@@ -1,0 +1,14 @@
+{
+  "featuredCollections":
+  [
+    "language/js",
+    "language/css",
+    "tag/react/t/hooks",
+    "language/python",
+    "tag/js/t/algorithm",
+    "tag/react/t/components",
+    "blog/blog",
+    "tag/js/t/node",
+    "language/react"
+  ]
+}
