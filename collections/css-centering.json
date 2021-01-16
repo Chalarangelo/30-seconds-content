@@ -3,11 +3,11 @@
   "name": "CSS Centering",
   "featured": 1,
   "snippetIds": [
-    "30blog/blog_posts/css-centering",
-    "30css/snippets/flexbox-centering",
-    "30css/snippets/grid-centering",
-    "30css/snippets/transform-centering",
-    "30css/snippets/display-table-centering"
+    "blog/s/css-centering",
+    "css/s/flexbox-centering",
+    "css/s/grid-centering",
+    "css/s/transform-centering",
+    "css/s/display-table-centering"
   ],
   "description": "Centering content with CSS is not always straighforward. This snippet collection contains a few handy tips and tricks to help you center anything anywhere."
 }
