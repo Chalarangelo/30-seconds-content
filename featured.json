@@ -9,8 +9,9 @@
     "tag/react/t/components",
     "blog/blog",
     "tag/js/t/node",
-    "language/react",
+    "collection/c/react-rendering",
+    "collection/c/css-centering",
     "collection/c/js-array-tricks",
-    "collection/c/css-centering"
+    "collection/c/react-testing"
   ]
 }
