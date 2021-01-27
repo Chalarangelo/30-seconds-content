@@ -19,10 +19,12 @@
     "iconName": "react"
   },
   "biasPenaltyMultiplier": 1.25,
+  "splash": "collections/cloud.svg",
   "description": "The React snippet collection contains function components and reusable hooks for React 16.",
   "tagMetadata": {
     "components": {
-      "name": "React Components"
+      "name": "React Components",
+      "splash": "collections/presentation.svg"
     },
     "hooks": {
       "name": "React Hooks"
