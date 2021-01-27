@@ -15,19 +15,37 @@
     "iconName": "js"
   },
   "biasPenaltyMultiplier": 1.05,
+  "splash": "collections/coding.svg",
   "description": "The JavaScript snippet collection contains a wide variety of ES6 helper functions. It includes helpers for dealing with primitives, arrays and objects, as well as algorithms, DOM manipulation functions and Node.js utilities.",
   "tagMetadata": {
     "algorithm": {
       "name": "JavaScript Algorithms",
-      "description": "The JavaScript algorithms collection includes implementations and examples of popular algorithms in ES6. Algorithmic snippets are primarily a learning resource, as they might already be implemented natively or require optimizations to run in production."
+      "description": "The JavaScript algorithms collection includes implementations and examples of popular algorithms in ES6. Algorithmic snippets are primarily a learning resource, as they might already be implemented natively or require optimizations to run in production.",
+      "splash": "collections/teaching.svg"
     },
     "node" : {
       "name": "Node.js Snippets",
       "shortName": "Node.js",
-      "description": "The Node.js snippet collection contains JavaScript utilities for Node.js 14.x. It includes helper functions related to server-side code and filesystem operations, while general-purpose helpers can be found in the JavaScript snippet collection."
+      "description": "The Node.js snippet collection contains JavaScript utilities for Node.js 14.x. It includes helper functions related to server-side code and filesystem operations, while general-purpose helpers can be found in the JavaScript snippet collection.",
+      "splash": "collections/cloud.svg"
     },
     "browser": {
       "description": "The JavaScript snippet collection contains a wide variety of ES6 helper functions. Browser snippets include helper functions for selecting, traversing, and manipulating DOM elements, while general-purpose helpers can be found in the JavaScript snippet collection."
+    },
+    "array": {
+      "splash": "collections/tasks.svg"
+    },
+    "date": {
+      "splash": "collections/tasks.svg"
+    },
+    "object": {
+      "splash": "collections/achievement.svg"
+    },
+    "function": {
+      "splash": "collections/achievement.svg"
+    },
+    "math": {
+      "splash": "collections/statistics.svg"
     }
   }
 }
