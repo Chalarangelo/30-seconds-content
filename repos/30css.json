@@ -17,11 +17,7 @@
   },
   "slug": "css",
   "featured": 3,
-  "theme": {
-    "backColor": "#3f4de4",
-    "foreColor": "#ffffff",
-    "iconName": "css"
-  },
+  "iconName": "css",
   "biasPenaltyMultiplier": 1.05,
   "splash": "collections/design.svg",
   "cardTemplate": "CssSnippetCard",

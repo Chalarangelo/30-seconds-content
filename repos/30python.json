@@ -9,11 +9,7 @@
   },
   "slug": "python",
   "featured": 5,
-  "theme": {
-    "backColor": "#3c77a9",
-    "foreColor": "#ffffff",
-    "iconName": "python"
-  },
+  "iconName": "python",
   "biasPenaltyMultiplier": 1.05,
   "splash": "collections/tasks.svg",
   "description": "The Python snippet collection contains helper functions for Python 3.6. It includes utilities for most common data types, such as primitivies, lists, dictionaries and date objects.",

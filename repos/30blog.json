@@ -6,11 +6,7 @@
   "slug": "blog",
   "isBlog": true,
   "featured": 1,
-  "theme": {
-    "backColor": "#1f253d",
-    "foreColor": "#edf0fc",
-    "iconName": "blog"
-  },
+  "iconName": "blog",
   "biasPenaltyMultiplier": 1,
   "images": {
     "name": "blog_images",

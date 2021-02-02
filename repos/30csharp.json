@@ -9,10 +9,6 @@
   },
   "slug": "c-sharp",
   "featured": -1,
-  "theme": {
-    "backColor": "#672179",
-    "foreColor": "#ffffff",
-    "iconName": "csharp"
-  },
+  "iconName": "csharp",
   "biasPenaltyMultiplier": 1.25
 }
