@@ -1,0 +1,54 @@
+{
+  "icons": [
+    {
+      "backColor": "#f6d854",
+      "foreColor": "#392f31",
+      "iconName": "js"
+    },
+    {
+      "backColor": "#3f4de4",
+      "foreColor": "#ffffff",
+      "iconName": "css"
+    },
+    {
+      "backColor": "#282c34",
+      "foreColor": "#61dafb",
+      "iconName": "react"
+    },
+    {
+      "backColor": "#3c77a9",
+      "foreColor": "#ffffff",
+      "iconName": "python"
+    },
+    {
+      "backColor": "#8b9bd6",
+      "foreColor": "#2a2843",
+      "iconName": "php"
+    },
+    {
+      "backColor": "#672179",
+      "foreColor": "#ffffff",
+      "iconName": "csharp"
+    },
+    {
+      "backColor": "#5ac9e2",
+      "foreColor": "#000000",
+      "iconName": "golang"
+    },
+    {
+      "backColor": "#1b2634",
+      "foreColor": "#ffffff",
+      "iconName": "dart"
+    },
+    {
+      "backColor": "#1f253d",
+      "foreColor": "#edf0fc",
+      "iconName": "blog"
+    },
+    {
+      "backColor": "#333333",
+      "foreColor": "#539e43",
+      "iconName": "node"
+    }
+  ]
+}
