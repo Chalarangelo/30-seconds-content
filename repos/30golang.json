@@ -9,10 +9,6 @@
   },
   "slug": "go",
   "featured": -1,
-  "theme": {
-    "backColor": "#5ac9e2",
-    "foreColor": "#000000",
-    "iconName": "golang"
-  },
+  "iconName": "golang",
   "biasPenaltyMultiplier": 1.3
 }

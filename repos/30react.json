@@ -13,11 +13,7 @@
   },
   "slug": "react",
   "featured": 4,
-  "theme": {
-    "backColor": "#282c34",
-    "foreColor": "#61dafb",
-    "iconName": "react"
-  },
+  "iconName": "react",
   "biasPenaltyMultiplier": 1.25,
   "splash": "collections/cloud.svg",
   "description": "The React snippet collection contains function components and reusable hooks for React 16.",

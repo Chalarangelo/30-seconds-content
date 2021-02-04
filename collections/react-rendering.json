@@ -7,9 +7,7 @@
     "blog/s/react-rendering-optimization",
     "blog/s/react-rendering-state"
   ],
-  "theme": {
-    "iconName": "react"
-  },
+  "iconName": "react",
   "splash": "collections/cloud.svg",
   "description": "Understanding of the rendering process is a crucial piece of knowledge when creating web applications with React. Take a deep dive into the fundamentals and core concepts as well as more advanced techniques with this series of articles."
 }

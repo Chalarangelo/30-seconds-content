@@ -16,9 +16,7 @@
     "js/s/last",
     "js/s/flatten"
   ],
-  "theme": {
-    "iconName": "js"
-  },
+  "iconName": "js",
   "splash": "collections/interview.svg",
   "description": "Arrays are one of the most common data types in JavaScript. While there are many libraries that deal with them, here are some awesome tips and tricks you can leverage in your code without adding any external dependencies."
 }
