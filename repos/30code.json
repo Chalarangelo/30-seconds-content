@@ -13,6 +13,7 @@
   "biasPenaltyMultiplier": 1.05,
   "splash": "collections/coding.svg",
   "description": "The JavaScript snippet collection contains a wide variety of ES6 helper functions. It includes helpers for dealing with primitives, arrays and objects, as well as algorithms, DOM manipulation functions and Node.js utilities.",
+  "shortDescription": "Browse a wide variety of ES6 helper functions, including array operations, DOM manipulation, algorithms and Node.js utilities.",
   "tagMetadata": {
     "algorithm": {
       "name": "JavaScript Algorithms",

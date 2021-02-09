@@ -12,5 +12,6 @@
     "name": "blog_images",
     "path": "blog_images"
   },
-  "cardTemplate": "BlogSnippetCard"
+  "cardTemplate": "BlogSnippetCard",
+  "shortDescription": "Discover dozens of programming articles, covering a wide variety of topics and technologies."
 }
