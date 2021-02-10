@@ -22,7 +22,7 @@
     "components": {
       "name": "React Components",
       "splash": "collections/presentation.svg",
-      "shortDescription": "Discover a collection of reusable function component for React 16."
+      "shortDescription": "Discover a collection of reusable function components for React 16."
     },
     "hooks": {
       "name": "React Hooks",
