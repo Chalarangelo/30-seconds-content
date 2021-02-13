@@ -1,7 +1,7 @@
 {
   "slug": "c/react-testing",
   "name": "React Testing",
-  "featured": 2,
+  "featured": true,
   "snippetIds": [
     "blog/s/testing-stateful-ui-components",
     "blog/s/testing-async-react-components",

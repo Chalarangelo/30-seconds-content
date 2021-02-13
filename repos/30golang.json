@@ -8,7 +8,7 @@
     "long": "Go"
   },
   "slug": "go",
-  "featured": -1,
+  "featured": false,
   "iconName": "golang",
   "biasPenaltyMultiplier": 1.3
 }

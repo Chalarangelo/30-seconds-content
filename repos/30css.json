@@ -16,7 +16,7 @@
     "long": "JavaScript"
   },
   "slug": "css",
-  "featured": 3,
+  "featured": true,
   "iconName": "css",
   "biasPenaltyMultiplier": 1.05,
   "splash": "collections/design.svg",
