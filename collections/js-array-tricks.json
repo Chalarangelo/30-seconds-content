@@ -1,7 +1,7 @@
 {
   "slug": "c/js-array-tricks",
   "name": "JavaScript Array Tricks",
-  "featured": 2,
+  "featured": true,
   "snippetIds": [
     "js/s/unique-elements",
     "js/s/compact",

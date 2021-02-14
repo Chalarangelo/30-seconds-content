@@ -1,7 +1,7 @@
 {
   "slug": "c/css-centering",
   "name": "CSS Centering",
-  "featured": 1,
+  "featured": true,
   "snippetIds": [
     "blog/s/css-centering",
     "css/s/flexbox-centering",

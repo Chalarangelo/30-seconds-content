@@ -8,7 +8,7 @@
     "long": "Python"
   },
   "slug": "python",
-  "featured": 5,
+  "featured": true,
   "iconName": "python",
   "biasPenaltyMultiplier": 1.05,
   "splash": "collections/tasks.svg",

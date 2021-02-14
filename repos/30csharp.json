@@ -8,7 +8,7 @@
     "long": "C#"
   },
   "slug": "c-sharp",
-  "featured": -1,
+  "featured": false,
   "iconName": "csharp",
   "biasPenaltyMultiplier": 1.25
 }

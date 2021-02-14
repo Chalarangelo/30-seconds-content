@@ -8,7 +8,7 @@
     "long": "JavaScript"
   },
   "slug": "js",
-  "featured": 2,
+  "featured": true,
   "iconName": "js",
   "biasPenaltyMultiplier": 1.05,
   "splash": "collections/coding.svg",

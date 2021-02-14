@@ -5,7 +5,7 @@
   "snippetPath": "blog_posts",
   "slug": "blog",
   "isBlog": true,
-  "featured": 1,
+  "featured": true,
   "iconName": "blog",
   "biasPenaltyMultiplier": 1,
   "images": {

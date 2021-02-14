@@ -8,7 +8,7 @@
     "long": "Dart"
   },
   "slug": "dart",
-  "featured": -1,
+  "featured": false,
   "iconName": "dart",
   "biasPenaltyMultiplier": 1.3
 }
