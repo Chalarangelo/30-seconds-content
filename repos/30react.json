@@ -12,7 +12,7 @@
     "long": "CSS"
   },
   "slug": "react",
-  "featured": false,
+  "featured": true,
   "iconName": "react",
   "biasPenaltyMultiplier": 1.25,
   "splash": "collections/cloud.svg",
