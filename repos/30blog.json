@@ -13,5 +13,23 @@
     "path": "blog_images"
   },
   "cardTemplate": "BlogSnippetCard",
-  "shortDescription": "Discover dozens of programming articles, covering a wide variety of topics and technologies."
+  "splash": "collections/tasks.svg",
+  "description": "The coding articles collection contains curated stories, tips, questions and answers on a wide variety of topics. The main focus of these articles revolves around the languages and technologies presented in snippets, as well as career advice and lessons.",
+  "shortDescription": "Discover dozens of programming articles, covering a wide variety of topics and technologies.",
+  "tagMetadata": {
+    "javascript": {
+      "splash": "collections/coding.svg"
+    },
+    "css": {
+      "splash": "collections/design.svg"
+    },
+    "react": {
+      "splash": "collections/presentation.svg"
+    },
+    "webdev": {
+      "name": "Web development Articles",
+      "shortName": "Webdev",
+      "splash": "collections/cloud.svg"
+    }
+  }
 }
