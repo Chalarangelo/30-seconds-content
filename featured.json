@@ -12,7 +12,9 @@
     "collection/c/react-rendering",
     "collection/c/js-colors",
     "collection/c/css-centering",
+    "collection/c/tips",
     "collection/c/js-array-tricks",
-    "collection/c/react-testing"
+    "collection/c/react-testing",
+    "collection/c/cheatsheets"
   ]
 }

@@ -18,13 +18,19 @@
   "shortDescription": "Discover dozens of programming articles, covering a wide variety of topics and technologies.",
   "tagMetadata": {
     "javascript": {
-      "splash": "collections/coding.svg"
+      "splash": "collections/coding.svg",
+      "iconName": "js"
     },
     "css": {
-      "splash": "collections/design.svg"
+      "splash": "collections/design.svg",
+      "iconName": "css"
     },
     "react": {
-      "splash": "collections/presentation.svg"
+      "splash": "collections/presentation.svg",
+      "iconName": "react"
+    },
+    "python": {
+      "iconName": "python"
     },
     "webdev": {
       "name": "Web development Articles",
