@@ -49,6 +49,11 @@
       "backColor": "#333333",
       "foreColor": "#539e43",
       "iconName": "node"
+    },
+    {
+      "backColor": "#f05133",
+      "foreColor": "#ffffff",
+      "iconName": "git"
     }
   ]
 }
