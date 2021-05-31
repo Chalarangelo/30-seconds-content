@@ -3,9 +3,9 @@
   "name": "React Rendering",
   "featured": true,
   "snippetIds": [
-    "blog/s/react-rendering-basics",
-    "blog/s/react-rendering-optimization",
-    "blog/s/react-rendering-state"
+    "articles/s/react-rendering-basics",
+    "articles/s/react-rendering-optimization",
+    "articles/s/react-rendering-state"
   ],
   "iconName": "react",
   "splash": "collections/cloud.svg",

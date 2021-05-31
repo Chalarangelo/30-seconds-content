@@ -3,9 +3,9 @@
   "name": "React Testing",
   "featured": true,
   "snippetIds": [
-    "blog/s/testing-stateful-ui-components",
-    "blog/s/testing-async-react-components",
-    "blog/s/testing-redux-connected-components"
+    "articles/s/testing-stateful-ui-components",
+    "articles/s/testing-async-react-components",
+    "articles/s/testing-redux-connected-components"
   ],
   "iconName": "react",
   "splash": "collections/statistics.svg",
