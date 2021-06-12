@@ -8,7 +8,7 @@
     "articles/s/react-rendering-state"
   ],
   "iconName": "react",
-  "splash": "collections/cloud.svg",
+  "splash": "glasses-comic.png",
   "description": "Understanding of the rendering process is a crucial piece of knowledge when creating web applications with React. Take a deep dive into the fundamentals and core concepts as well as more advanced techniques with this series of articles.",
   "shortDescription": "Understand the fundamentals of React's rendering process as well as more advanced techniques with this series of articles."
 }

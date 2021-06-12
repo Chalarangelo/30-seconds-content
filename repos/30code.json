@@ -11,7 +11,7 @@
   "featured": true,
   "iconName": "js",
   "biasPenaltyMultiplier": 1.05,
-  "splash": "collections/coding.svg",
+  "splash": "laptop-plant.png",
   "description": "The JavaScript snippet collection contains a wide variety of ES6 helper functions. It includes helpers for dealing with primitives, arrays and objects, as well as algorithms, DOM manipulation functions and Node.js utilities.",
   "shortDescription": "Browse a wide variety of ES6 helper functions, including array operations, DOM manipulation, algorithms and Node.js utilities.",
   "tagMetadata": {
@@ -19,14 +19,14 @@
       "name": "JavaScript Algorithms",
       "description": "The JavaScript algorithms collection includes implementations and examples of popular algorithms in ES6. Algorithmic snippets are primarily a learning resource, as they might already be implemented natively or require optimizations to run in production.",
       "shortDescription": "Learn a handful of popular algorithms, implemented in JavaScript ES6.",
-      "splash": "collections/teaching.svg"
+      "splash": "widescreen.png"
     },
     "node" : {
       "name": "Node.js Snippets",
       "shortName": "Node.js",
       "description": "The Node.js snippet collection contains JavaScript utilities for Node.js 14.x. It includes helper functions related to server-side code and filesystem operations, while general-purpose helpers can be found in the JavaScript snippet collection.",
       "shortDescription": "Discover a collection of server-side JavaScript utility functions for Node.js 14.x.",
-      "splash": "collections/cloud.svg",
+      "splash": "coffee-drip.png",
       "iconName": "node"
     },
     "browser": {
@@ -34,19 +34,19 @@
       "shortDescription": "Select, traverse and manipulate DOM elements with this collection of JavaScript ES6 snippets."
     },
     "array": {
-      "splash": "collections/tasks.svg"
+      "splash": "plant-screen.png"
     },
     "date": {
-      "splash": "collections/tasks.svg"
+      "splash": "succulent.png"
     },
     "object": {
-      "splash": "collections/achievement.svg"
+      "splash": "tablet.png"
     },
     "function": {
-      "splash": "collections/achievement.svg"
+      "splash": "tablet.png"
     },
     "math": {
-      "splash": "collections/statistics.svg"
+      "splash": "mobile.png"
     }
   }
 }
