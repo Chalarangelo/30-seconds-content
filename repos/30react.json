@@ -15,13 +15,13 @@
   "featured": true,
   "iconName": "react",
   "biasPenaltyMultiplier": 1.25,
-  "splash": "collections/cloud.svg",
+  "splash": "succulent-cluster.png",
   "description": "The React snippet collection contains function components and reusable hooks for React 16.",
   "shortDescription": "Discover function components and reusable hooks for React 16.",
   "tagMetadata": {
     "components": {
       "name": "React Components",
-      "splash": "collections/presentation.svg",
+      "splash": "succulent.png",
       "shortDescription": "Discover a collection of reusable function components for React 16."
     },
     "hooks": {

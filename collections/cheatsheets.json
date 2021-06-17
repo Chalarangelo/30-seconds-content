@@ -4,7 +4,7 @@
   "featured": true,
   "typeMatcher": "blog.cheatsheet",
   "iconName": "blog",
-  "splash": "collections/teaching.svg",
+  "splash": "plant-screen.png",
   "description": "Cheatsheets are one of the best ways to present a lot of information in a concise manner. This collection includes cheatsheets for various topics, so that you can look up anything you might need.",
   "shortDescription": "A collection of cheatsheets to bookmark and come back to whenever you need to look up anything."
 }

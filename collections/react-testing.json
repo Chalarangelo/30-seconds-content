@@ -3,12 +3,12 @@
   "name": "React Testing",
   "featured": true,
   "snippetIds": [
-    "blog/s/testing-stateful-ui-components",
-    "blog/s/testing-async-react-components",
-    "blog/s/testing-redux-connected-components"
+    "articles/s/testing-stateful-ui-components",
+    "articles/s/testing-async-react-components",
+    "articles/s/testing-redux-connected-components"
   ],
   "iconName": "react",
-  "splash": "collections/statistics.svg",
+  "splash": "headphones.png",
   "description": "Testing React can be challenging, both in terms of figuring out the correct mentality as well as understanding the mechanics of the tools you're working with. This article collection aims to teach you the basics of testing React components in various scenarios using React Testing Library.",
   "shortDescription": "Learn some of the basics of testing React components in various scenarios using React Testing Library."
 }

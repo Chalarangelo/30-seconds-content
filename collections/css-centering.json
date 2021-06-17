@@ -3,14 +3,14 @@
   "name": "CSS Centering",
   "featured": true,
   "snippetIds": [
-    "blog/s/css-centering",
+    "articles/s/css-centering",
     "css/s/flexbox-centering",
     "css/s/grid-centering",
     "css/s/transform-centering",
     "css/s/display-table-centering"
   ],
   "iconName": "css",
-  "splash": "collections/design.svg",
+  "splash": "keyboard-coffee.png",
   "description": "Centering content with CSS is not always straighforward. This snippet collection contains a few handy tips and tricks to help you center anything anywhere.",
   "shortDescription": "A collection of techniques for centering HTML elements in any situation using CSS."
 }
