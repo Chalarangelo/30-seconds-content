@@ -21,26 +21,6 @@
       "iconName": "python"
     },
     {
-      "backColor": "#8b9bd6",
-      "foreColor": "#2a2843",
-      "iconName": "php"
-    },
-    {
-      "backColor": "#672179",
-      "foreColor": "#ffffff",
-      "iconName": "csharp"
-    },
-    {
-      "backColor": "#5ac9e2",
-      "foreColor": "#000000",
-      "iconName": "golang"
-    },
-    {
-      "backColor": "#1b2634",
-      "foreColor": "#ffffff",
-      "iconName": "dart"
-    },
-    {
       "backColor": "#1f253d",
       "foreColor": "#edf0fc",
       "iconName": "blog"
