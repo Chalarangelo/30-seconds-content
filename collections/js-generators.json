@@ -13,6 +13,8 @@
     "js/s/date-range-generator",
     "js/s/index-of-substrings",
     "js/s/walk-through",
+    "js/s/generate-while",
+    "js/s/generate-until",
     "articles/s/javascript-make-iterable",
     "articles/s/javascript-enum",
     "articles/s/javascript-object-array-proxy"
