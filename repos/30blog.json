@@ -12,7 +12,6 @@
     "name": "blog_images",
     "path": "blog_images"
   },
-  "cardTemplate": "BlogSnippetCard",
   "splash": "laptop-view.png",
   "description": "The coding articles collection contains curated stories, tips, questions and answers on a wide variety of topics. The main focus of these articles revolves around the languages and technologies presented in snippets, as well as career advice and lessons.",
   "shortDescription": "Discover dozens of programming articles, covering a wide variety of topics and technologies.",
