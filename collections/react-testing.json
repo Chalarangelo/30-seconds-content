@@ -5,6 +5,7 @@
   "snippetIds": [
     "articles/s/testing-stateful-ui-components",
     "articles/s/testing-async-react-components",
+    "articles/s/testing-react-portals",
     "articles/s/testing-redux-connected-components"
   ],
   "iconName": "react",
