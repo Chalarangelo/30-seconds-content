@@ -14,7 +14,7 @@
   "slug": "react",
   "featured": true,
   "iconName": "react",
-  "biasPenaltyMultiplier": 1.25,
+  "biasPenaltyMultiplier": 1.2,
   "splash": "succulent-cluster.png",
   "description": "The React snippet collection contains function components and reusable hooks for React 16.",
   "shortDescription": "Discover function components and reusable hooks for React 16.",

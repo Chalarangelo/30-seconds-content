@@ -7,7 +7,7 @@
   "isBlog": true,
   "featured": true,
   "iconName": "blog",
-  "biasPenaltyMultiplier": 1,
+  "biasPenaltyMultiplier": 1.05,
   "images": {
     "name": "blog_images",
     "path": "blog_images"
