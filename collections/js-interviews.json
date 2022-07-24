@@ -29,6 +29,7 @@
     "articles/s/javascript-use-strict",
     "articles/s/javascript-closures",
     "articles/s/javascript-iife",
+    "articles/s/javascript-event-loop-explained",
     "articles/s/javascript-prefix-postfix-operators"
   ],
   "iconName": "js",
