@@ -1,6 +1,8 @@
 {
   "slug": "c/react-testing",
   "name": "React Testing",
+  "shortName": "Testing",
+  "parent": "language/react",
   "featured": true,
   "snippetIds": [
     "articles/s/testing-stateful-ui-components",
