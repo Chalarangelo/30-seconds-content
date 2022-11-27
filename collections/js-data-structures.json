@@ -1,6 +1,8 @@
 {
   "slug": "c/js-data-structures",
   "name": "JavaScript Data Structures",
+  "shortName": "Data Structures",
+  "parent": "language/js",
   "featured": true,
   "snippetIds": [
     "articles/s/js-native-data-structures",
