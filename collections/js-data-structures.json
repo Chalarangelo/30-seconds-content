@@ -14,7 +14,8 @@
     "articles/s/js-data-structures-tree",
     "articles/s/js-data-structures-binary-tree",
     "articles/s/js-data-structures-binary-search-tree",
-    "articles/s/js-frequency-map-data-structure"
+    "articles/s/js-frequency-map-data-structure",
+    "articles/s/big-o-cheatsheet"
   ],
   "iconName": "js",
   "splash": "purple-flower.png",
