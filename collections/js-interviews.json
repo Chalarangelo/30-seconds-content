@@ -1,7 +1,9 @@
 {
   "slug": "c/js-interviews",
   "name": "JavaScript Interview Questions",
+  "shortName": "Interview Questions",
   "featured": true,
+  "parent": "language/js",
   "snippetIds": [
     "articles/s/javascript-equality",
     "articles/s/javascript-truthy-falsy-values",
