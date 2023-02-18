@@ -6,7 +6,6 @@
   "slug": "articles",
   "isBlog": true,
   "featured": true,
-  "iconName": "blog",
   "biasPenaltyMultiplier": 1.05,
   "splash": "laptop-view.png",
   "description": "The coding articles collection contains curated stories, tips, questions and answers on a wide variety of topics. The main focus of these articles revolves around the languages and technologies presented in snippets, as well as career advice and lessons.",
@@ -14,22 +13,18 @@
   "tagMetadata": {
     "javascript": {
       "name": "JavaScript Articles",
-      "splash": "laptop-plant.png",
-      "iconName": "js"
+      "splash": "laptop-plant.png"
     },
     "css": {
       "name": "CSS Articles",
-      "splash": "camera.png",
-      "iconName": "css"
+      "splash": "camera.png"
     },
     "react": {
       "name": "React Articles",
-      "splash": "plant-window.png",
-      "iconName": "react"
+      "splash": "plant-window.png"
     },
     "python": {
-      "name": "Python Articles",
-      "iconName": "python"
+      "name": "Python Articles"
     },
     "webdev": {
       "name": "Web development Articles",

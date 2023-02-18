@@ -9,7 +9,6 @@
   },
   "slug": "js",
   "featured": true,
-  "iconName": "js",
   "biasPenaltyMultiplier": 1,
   "splash": "laptop-plant.png",
   "description": "The JavaScript snippet collection contains a wide variety of ES6 helper functions. It includes helpers for dealing with primitives, arrays and objects, as well as algorithms, DOM manipulation functions and Node.js utilities.",
