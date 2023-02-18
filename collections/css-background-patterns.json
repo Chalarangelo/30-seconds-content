@@ -8,7 +8,6 @@
     "css/s/polka-dot-pattern",
     "css/s/checkerboard-pattern"
   ],
-  "iconName": "css",
   "splash": "tea-pour.png",
   "description": "CSS can be used to create a variety of background patterns. In this collection, you'll learn how to create a few simple background patterns, such as stripes, zig-zags, polka dots, and checkerboards.",
   "shortDescription": "Learn how to create a variety of background patterns using CSS."

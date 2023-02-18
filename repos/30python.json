@@ -9,8 +9,6 @@
   },
   "slug": "python",
   "featured": true,
-  "iconName": "python",
-  "biasPenaltyMultiplier": 1,
   "splash": "terrarium.png",
   "description": "The Python snippet collection contains helper functions for Python 3.6. It includes utilities for most common data types, such as primitivies, lists, dictionaries and date objects.",
   "shortDescription": "Browse helper functions for Python 3.6, including utilities for primitives, lists, dictionaries and date objects.",
