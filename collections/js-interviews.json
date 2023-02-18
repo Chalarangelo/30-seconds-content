@@ -37,7 +37,6 @@
     "articles/s/javascript-event-loop-explained",
     "articles/s/javascript-prefix-postfix-operators"
   ],
-  "iconName": "js",
   "splash": "interview.png",
   "description": "Preparing for a job interview requires studying to refresh your knowledge and skills. This collection of JavaScript interview questions is designed to cover some commonly-asked interview questions, using concise answers and simple examples.",
   "shortDescription": "Prepare for your next JavaScript interview with this collection of interview questions and answers."

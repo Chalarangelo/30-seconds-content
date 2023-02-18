@@ -16,7 +16,6 @@
     "js/s/last",
     "js/s/flatten"
   ],
-  "iconName": "js",
   "splash": "terrarium.png",
   "description": "Arrays are one of the most common data types in JavaScript. While there are many libraries that deal with them, here are some awesome tips and tricks you can leverage in your code without adding any external dependencies.",
   "shortDescription": "Learn a handful of awesome tips and tricks that you can leverage in your code to make array manipulation a breeze."

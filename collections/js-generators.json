@@ -21,7 +21,6 @@
     "articles/s/javascript-enum",
     "articles/s/javascript-object-array-proxy"
   ],
-  "iconName": "js",
   "splash": "generator.png",
   "description": "JavaScript generator functions introduce a way to define an iterative algorithm by writing a function with non-continuous execution. This practically means they allow you to create a new generator every time you call a generator function, which can then be iterated over just like any other iterable.",
   "shortDescription": "JavaScript generator functions are a more advanced yet very powerful JavaScript ES6 feature, which you can start using in your code right now."
