@@ -22,6 +22,7 @@
     "articles/s/javascript-object-comparison",
     "articles/s/javascript-array-comparison",
     "articles/s/javascript-array-includes-value",
+    "articles/s/js-array-map-vs-foreach",
     "articles/s/javascript-event-bubbling-capturing-delegation",
     "articles/s/javascript-value-not-equal-to-itself",
     "articles/s/javascript-blank-value",
@@ -35,7 +36,8 @@
     "articles/s/javascript-closures",
     "articles/s/javascript-iife",
     "articles/s/javascript-event-loop-explained",
-    "articles/s/javascript-prefix-postfix-operators"
+    "articles/s/javascript-prefix-postfix-operators",
+    "articles/s/cors-explained"
   ],
   "splash": "interview.png",
   "description": "Preparing for a job interview requires studying to refresh your knowledge and skills. This collection of JavaScript interview questions is designed to cover some commonly-asked interview questions, using concise answers and simple examples.",
