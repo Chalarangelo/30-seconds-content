@@ -1,6 +1,6 @@
 {
   "slug": "c/js-colors",
-  "name": "Working with color in JavaScript",
+  "name": "Colors in JavaScript",
   "featured": true,
   "snippetIds": [
     "js/s/random-hex-color-code",
