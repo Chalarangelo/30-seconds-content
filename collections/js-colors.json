@@ -17,7 +17,7 @@
     "js/s/to-hsl-array",
     "js/s/to-hsl-object"
   ],
-  "splash": "tablet.png",
+  "splash": "colorful-rocks.png",
   "description": "Working with color in JavaScript requires some understanding of color formats and conversions. This snippet collection covers a lot of those needs from generating random color hex codes to converting between hex and RGB values and even some more advanced tricks like using the HSL format to alter the lightness of a color.",
   "shortDescription": "Working with color in JavaScript requires some understanding of color formats and conversions. Luckily, this snippet collection's got you covered."
 }
