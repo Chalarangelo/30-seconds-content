@@ -22,8 +22,8 @@
     "node" : {
       "name": "Node.js Snippets",
       "shortName": "Node.js",
-      "description": "The Node.js snippet collection contains JavaScript utilities for Node.js 14.x. It includes helper functions related to server-side code and filesystem operations, while general-purpose helpers can be found in the JavaScript snippet collection.",
-      "shortDescription": "Discover a collection of server-side JavaScript utility functions for Node.js 14.x.",
+      "description": "The Node.js snippet collection contains JavaScript utilities for Node.js 18.x. It includes helper functions related to server-side code and filesystem operations, while general-purpose helpers can be found in the JavaScript snippet collection.",
+      "shortDescription": "Discover a collection of server-side JavaScript utility functions for Node.js 18.x.",
       "splash": "coffee-drip.png",
       "iconName": "node"
     },
