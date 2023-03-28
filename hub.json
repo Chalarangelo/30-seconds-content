@@ -38,6 +38,9 @@
       "collection/c/js-generators",
       "tag/react/t/components",
       "collection/c/js-array-set-operations",
+      "collection/c/css-button-transitions",
+      "collection/c/js-random-value-generators",
+      "collection/c/css-background-patterns",
       "collection/c/cheatsheets"
     ]
   }
