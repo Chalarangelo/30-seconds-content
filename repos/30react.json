@@ -14,17 +14,17 @@
   "slug": "react",
   "featured": true,
   "splash": "succulent-cluster.png",
-  "description": "The React snippet collection contains function components and reusable hooks for React 16.",
-  "shortDescription": "Discover function components and reusable hooks for React 16.",
+  "description": "The React snippet collection contains function components and reusable hooks for React 18.",
+  "shortDescription": "Discover function components and reusable hooks for React 18.",
   "tagMetadata": {
     "components": {
       "name": "React Components",
       "splash": "succulent.png",
-      "shortDescription": "Discover a collection of reusable function components for React 16."
+      "shortDescription": "Discover a collection of reusable function components for React 18."
     },
     "hooks": {
       "name": "React Hooks",
-      "shortDescription": "Discover a collection of reusable hooks for React 16."
+      "shortDescription": "Discover a collection of reusable hooks for React 18."
     }
   },
   "references": {
