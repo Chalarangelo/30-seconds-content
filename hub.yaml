@@ -1,0 +1,49 @@
+---
+mainListing:
+  name: Code Snippets
+  splash: laptop-plant.png
+  description: 30 seconds of code provides a curated collection of short code snippets
+    for all your development needs. Our collection spans many topics, ranging from
+    simple coding problems to theoretical concepts and development techniques.
+collectionListing:
+  name: Snippet Collections
+  splash: widescreen.png
+  description: 30 seconds of code provides a wide variety of snippet and article collections
+    for all your development needs. Explore individual language collections or browse
+    through collections about specific topics and programming concepts.
+  featuredListings:
+  - language/js
+  - language/css
+  - tag/react/t/hooks
+  - tag/js/t/algorithm
+  - language/git
+  - collection/c/js-interviews
+  - language/python
+  - tag/js/t/node
+  - collection/c/js-data-structures
+  - collection/c/js-promises
+  - collection/c/js-comparison
+  - collection/c/html-head-basics
+  - collection/c/css-centering
+  - collection/c/tips
+  - collection/c/js-url
+  - collection/c/js-proxy
+  - collection/c/js-event-handling
+  - collection/c/js-arrow-functions
+  - collection/c/react-rendering
+  - collection/c/js-colors
+  - collection/c/js-array-methods
+  - collection/c/js-array-tricks
+  - collection/c/js-object-key-transformations
+  - collection/c/react-testing
+  - collection/c/css-hover-effects
+  - collection/c/js-string-casing
+  - collection/c/js-generators
+  - tag/react/t/components
+  - collection/c/js-array-set-operations
+  - collection/c/css-button-transitions
+  - collection/c/js-random-value-generators
+  - collection/c/css-background-patterns
+  - collection/c/js-object-cloning
+  - collection/c/js-object-key-selection
+  - collection/c/cheatsheets

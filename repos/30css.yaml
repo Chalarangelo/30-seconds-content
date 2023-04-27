@@ -1,0 +1,29 @@
+name: 30 seconds of CSS
+dirName: 30css
+repoUrl: https://github.com/30-seconds/30-seconds-of-css
+snippetPath: snippets
+language:
+  short: css
+  long: CSS
+secondLanguage:
+  short: html
+  long: HTML
+optionalLanguage:
+  short: js
+  long: JavaScript
+slug: css
+featured: true
+splash: camera.png
+description: >-
+  The CSS snippet collection contains utilities and interactive examples for
+  CSS3. It includes modern techniques for creating commonly-used layouts,
+  styling and animating elements, as well as snippets for handling user
+  interactions.
+shortDescription: >-
+  A snippet collection of interactive CSS3 examples, covering layouts, styling,
+  animation and user interactions.
+tagMetadata:
+  animation:
+    name: CSS Animations
+  layout:
+    name: CSS Layouts
