@@ -1,7 +1,6 @@
 name: 30 seconds of Git
 dirName: 30git
 repoUrl: https://github.com/30-seconds/30-seconds-of-git
-snippetPath: snippets
 language:
   short: shell
   long: Git

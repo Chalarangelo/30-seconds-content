@@ -1,7 +1,6 @@
 name: 30 seconds of React
 dirName: 30react
 repoUrl: https://github.com/30-seconds/30-seconds-of-react
-snippetPath: snippets
 language:
   short: jsx
   long: React
