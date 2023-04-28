@@ -1,7 +1,7 @@
 slug: c/tips
 name: Tips & Tricks
 featured: true
-typeMatcher: blog.tip
+typeMatcher: tip
 splash: lightbulb.png
 description: >-
   Finding ways to improve and optimize your code takes a lot of time, research

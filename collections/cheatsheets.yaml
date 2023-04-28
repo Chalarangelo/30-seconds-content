@@ -1,7 +1,7 @@
 slug: c/cheatsheets
 name: Cheatsheets
 featured: true
-typeMatcher: blog.cheatsheet
+typeMatcher: cheatsheet
 splash: plant-screen.png
 description: >-
   Cheatsheets are one of the best ways to present a lot of information in a
