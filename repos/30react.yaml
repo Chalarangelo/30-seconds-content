@@ -22,13 +22,3 @@ tagMetadata:
   hooks:
     name: React Hooks
     shortDescription: Discover a collection of reusable hooks for React 18.
-references:
-  useCallback(): https://react.dev/reference/react/useCallback
-  useContext(): https://react.dev/reference/react/useContext
-  useDebugValue(): https://react.dev/reference/react/useDebugValue
-  useEffect(): https://react.dev/reference/react/useEffect
-  useLayoutEffect(): https://react.dev/reference/react/useLayoutEffect
-  useMemo(): https://react.dev/reference/react/useMemo
-  useReducer(): https://react.dev/reference/react/useReducer
-  useRef(): https://react.dev/reference/react/useRef
-  useState(): https://react.dev/reference/react/useState
