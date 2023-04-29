@@ -1,15 +1,7 @@
 name: 30 seconds of CSS
 dirName: 30css
 repoUrl: https://github.com/30-seconds/30-seconds-of-css
-language:
-  short: css
-  long: CSS
-secondLanguage:
-  short: html
-  long: HTML
-optionalLanguage:
-  short: js
-  long: JavaScript
+language: css
 slug: css
 featured: true
 splash: camera.png

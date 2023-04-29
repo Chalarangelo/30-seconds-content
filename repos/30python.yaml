@@ -1,9 +1,7 @@
 name: 30 seconds of Python
 dirName: 30python
 repoUrl: https://github.com/30-seconds/30-seconds-of-python
-language:
-  short: py
-  long: Python
+language: python
 slug: python
 featured: true
 splash: terrarium.png

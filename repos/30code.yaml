@@ -1,9 +1,7 @@
 name: 30 seconds of code
 dirName: 30code
 repoUrl: https://github.com/30-seconds/30-seconds-of-code
-language:
-  short: js
-  long: JavaScript
+language: javascript
 slug: js
 featured: true
 splash: laptop-plant.png

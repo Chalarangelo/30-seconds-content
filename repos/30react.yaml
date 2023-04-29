@@ -1,12 +1,7 @@
 name: 30 seconds of React
 dirName: 30react
 repoUrl: https://github.com/30-seconds/30-seconds-of-react
-language:
-  short: jsx
-  long: React
-optionalLanguage:
-  short: css
-  long: CSS
+language: react
 slug: react
 featured: true
 splash: succulent-cluster.png
