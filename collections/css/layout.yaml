@@ -1,10 +1,9 @@
-name: 30 seconds of CSS
-dirName: 30css
-repoUrl: https://github.com/30-seconds/30-seconds-of-css
-language: css
-slug: css
-featured: true
-splash: camera.png
+slug: css/t/layout
+name: CSS Layouts
+shortName: Layout
+parent: collection/css
+languageMatcher: css
+tagMatcher: layout
 description: >-
   The CSS snippet collection contains utilities and interactive examples for
   CSS3. It includes modern techniques for creating commonly-used layouts,
@@ -13,3 +12,4 @@ description: >-
 shortDescription: >-
   A snippet collection of interactive CSS3 examples, covering layouts, styling,
   animation and user interactions.
+splash: camera.png

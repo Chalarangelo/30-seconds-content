@@ -1,0 +1,11 @@
+slug: react/t/hooks
+name: React Hooks
+shortName: Hooks
+parent: collection/react
+languageMatcher: react
+tagMatcher: hooks
+description: >-
+  The React snippet collection contains function components and reusable hooks
+  for React 18.
+shortDescription: Discover a collection of reusable hooks for React 18.
+splash: succulent-cluster.png

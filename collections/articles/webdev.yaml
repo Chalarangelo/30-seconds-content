@@ -1,10 +1,9 @@
-name: 30 seconds Blog
-dirName: 30blog
-repoUrl: https://github.com/30-seconds/30-seconds-blog
-slug: articles
-isBlog: true
-featured: true
-splash: laptop-view.png
+slug: articles/t/webdev
+name: Web development Articles
+shortName: Web development
+parent: collection/articles
+typeMatcher: article
+tagMatcher: webdev
 description: >-
   The coding articles collection contains curated stories, tips, questions and
   answers on a wide variety of topics. The main focus of these articles revolves
@@ -13,3 +12,4 @@ description: >-
 shortDescription: >-
   Discover dozens of programming articles, covering a wide variety of topics and
   technologies.
+splash: matcha.png

@@ -1,10 +1,9 @@
-name: 30 seconds of Python
-dirName: 30python
-repoUrl: https://github.com/30-seconds/30-seconds-of-python
-language: python
-slug: python
-featured: true
-splash: terrarium.png
+slug: python/t/date
+name: Python Date Snippets
+shortName: Date
+parent: collection/python
+languageMatcher: python
+tagMatcher: date
 description: >-
   The Python snippet collection contains helper functions for Python 3.6. It
   includes utilities for most common data types, such as primitivies, lists,
@@ -12,3 +11,4 @@ description: >-
 shortDescription: >-
   Browse helper functions for Python 3.6, including utilities for primitives,
   lists, dictionaries and date objects.
+splash: terrarium.png

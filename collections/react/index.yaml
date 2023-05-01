@@ -1,11 +1,11 @@
-name: 30 seconds of React
-dirName: 30react
-repoUrl: https://github.com/30-seconds/30-seconds-of-react
-language: react
 slug: react
+name: React Snippets
+shortName: React
+topLevel: true
+languageMatcher: react
 featured: true
-splash: succulent-cluster.png
 description: >-
   The React snippet collection contains function components and reusable hooks
   for React 18.
 shortDescription: Discover function components and reusable hooks for React 18.
+splash: succulent-cluster.png

@@ -1,10 +1,9 @@
-name: 30 seconds of code
-dirName: 30code
-repoUrl: https://github.com/30-seconds/30-seconds-of-code
-language: javascript
-slug: js
-featured: true
-splash: laptop-plant.png
+slug: js/t/function
+name: JavaScript Function Snippets
+shortName: Function
+parent: collection/js
+languageMatcher: javascript
+tagMatcher: function
 description: >-
   The JavaScript snippet collection contains a wide variety of ES6 helper
   functions. It includes helpers for dealing with primitives, arrays and
@@ -13,3 +12,4 @@ description: >-
 shortDescription: >-
   Browse a wide variety of ES6 helper functions, including array operations, DOM
   manipulation, algorithms and Node.js utilities.
+splash: tablet.png
