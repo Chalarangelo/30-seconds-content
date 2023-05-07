@@ -1,7 +1,9 @@
 slug: js/t/object
 name: JavaScript Object Snippets
-shortName: Object
-parent: collection/js
+shortName: JavaScript Objects
+miniName: Object
+featured: true
+parent: js
 languageMatcher: javascript
 tagMatcher: object
 description: >-
@@ -10,6 +12,6 @@ description: >-
   objects, as well as algorithms, DOM manipulation functions and Node.js
   utilities.
 shortDescription: >-
-  Browse a wide variety of ES6 helper functions, including array operations, DOM
-  manipulation, algorithms and Node.js utilities.
+  Handle JavaScript objects with ease, using the snippets and tips in this ES6
+  collection.
 splash: tablet.png

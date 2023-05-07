@@ -1,7 +1,9 @@
 slug: css/t/visual
 name: CSS Visual Snippets
-shortName: Visual
-parent: collection/css
+shortName: CSS Visual
+miniName: Visual
+featured: true
+parent: css
 languageMatcher: css
 tagMatcher: visual
 description: >-
@@ -10,6 +12,6 @@ description: >-
   styling and animating elements, as well as snippets for handling user
   interactions.
 shortDescription: >-
-  A snippet collection of interactive CSS3 examples, covering layouts, styling,
-  animation and user interactions.
+  A snippet collection of interactive CSS3 visual code snippets with
+  interactive examples.
 splash: camera.png

@@ -1,7 +1,9 @@
 slug: git/t/branch
 name: Git Branch Snippets
-shortName: Branch
-parent: collection/git
+shortName: Git Branches
+miniName: Branch
+featured: true
+parent: git
 languageMatcher: git
 tagMatcher: branch
 description: >-
@@ -10,6 +12,6 @@ description: >-
   and covers various use-cases in the form of simplified documentation, complete
   with multiple examples.
 shortDescription: >-
-  A snippet collection of simplified git documentation and tips, covering most
-  commonly-used commands and covering various use-cases.
+  Master git branch commands with this snippet collection of simplified git
+  documentation and tips.
 splash: keyboard-coffee.png

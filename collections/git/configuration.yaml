@@ -1,7 +1,9 @@
 slug: git/t/configuration
 name: Git Configuration Snippets
-shortName: Configuration
-parent: collection/git
+shortName: Git Configuration
+miniName: Configuration
+featured: true
+parent: git
 languageMatcher: git
 tagMatcher: configuration
 description: >-
@@ -10,6 +12,6 @@ description: >-
   and covers various use-cases in the form of simplified documentation, complete
   with multiple examples.
 shortDescription: >-
-  A snippet collection of simplified git documentation and tips, covering most
-  commonly-used commands and covering various use-cases.
+  Create and manage git configurations with this snippet collection of
+  simplified git documentation and tips.
 splash: keyboard-coffee.png

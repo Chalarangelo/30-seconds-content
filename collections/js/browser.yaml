@@ -1,7 +1,9 @@
 slug: js/t/browser
 name: JavaScript Browser Snippets
-shortName: Browser
-parent: collection/js
+shortName: JavaScript Browser
+miniName: Browser
+featured: true
+parent: js
 languageMatcher: javascript
 tagMatcher: browser
 description: >-

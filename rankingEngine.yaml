@@ -21,7 +21,7 @@ class: 1
 color: 1
 collection: 3
 commit: 2
-component: 3
+component: 2
 comprehension: 5
 configuration: 2
 constructor: 2
@@ -49,7 +49,7 @@ get: 2
 git: 4
 grid: 5
 group: 2
-hook: 3
+hook: 2
 hover: 2
 html: 2
 index: 1
@@ -90,7 +90,7 @@ redux: 3
 ref: 2
 reflection: 2
 regexp: 3
-render: 3
+render: 2
 replace: 3
 repository: 3
 scroll: 1

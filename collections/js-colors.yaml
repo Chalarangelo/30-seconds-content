@@ -23,5 +23,5 @@ description: >-
   even some more advanced tricks like using the HSL format to alter the
   lightness of a color.
 shortDescription: >-
-  Working with color in JavaScript requires some understanding of color formats
-  and conversions. Luckily, this snippet collection's got you covered.
+  Working with color requires understanding of color formats and conversions.
+  Luckily, this JavaScript snippet collection's got you covered.

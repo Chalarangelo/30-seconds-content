@@ -1,7 +1,9 @@
 slug: js/t/type
 name: JavaScript Type Snippets
-shortName: Type
-parent: collection/js
+shortName: JavaScript Types
+miniName: Type
+featured: true
+parent: js
 languageMatcher: javascript
 tagMatcher: type
 description: >-
@@ -10,6 +12,5 @@ description: >-
   objects, as well as algorithms, DOM manipulation functions and Node.js
   utilities.
 shortDescription: >-
-  Browse a wide variety of ES6 helper functions, including array operations, DOM
-  manipulation, algorithms and Node.js utilities.
+  A snippet collection of type helpers and explanations of JavaScript types.
 splash: laptop-plant.png

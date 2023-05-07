@@ -1,6 +1,5 @@
 name: 30 seconds Blog
 dirName: 30blog
-repoUrl: https://github.com/30-seconds/30-seconds-blog
 slug: articles
 isBlog: true
 featured: true

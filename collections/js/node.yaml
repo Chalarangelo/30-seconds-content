@@ -1,7 +1,9 @@
 slug: js/t/node
 name: Node.js Snippets
-shortName: Node
-parent: collection/js
+shortName: Node.js
+miniName: Node
+featured: true
+parent: js
 languageMatcher: javascript
 tagMatcher: node
 description: >-

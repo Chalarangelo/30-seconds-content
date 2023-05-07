@@ -27,5 +27,5 @@ description: >-
   a generator function, which can then be iterated over just like any other
   iterable.
 shortDescription: >-
-  JavaScript generator functions are a more advanced yet very powerful
-  JavaScript ES6 feature, which you can start using in your code right now.
+  JavaScript generator functions are an advanced yet very powerful ES6 feature,
+  which you can start using in your code right now.

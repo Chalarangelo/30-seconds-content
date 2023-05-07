@@ -1,7 +1,9 @@
 slug: git/t/repository
 name: Git Repository Snippets
-shortName: Repository
-parent: collection/git
+shortName: Git Repositories
+miniName: Repository
+featured: true
+parent: git
 languageMatcher: git
 tagMatcher: repository
 description: >-
@@ -10,6 +12,6 @@ description: >-
   and covers various use-cases in the form of simplified documentation, complete
   with multiple examples.
 shortDescription: >-
-  A snippet collection of simplified git documentation and tips, covering most
-  commonly-used commands and covering various use-cases.
+  Organize your git repositories with this snippet collection of simplified git
+  documentation and tips.
 splash: keyboard-coffee.png

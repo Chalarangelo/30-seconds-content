@@ -1,6 +1,5 @@
 name: 30 seconds of Git
 dirName: 30git
-repoUrl: https://github.com/30-seconds/30-seconds-of-git
 language: git
 slug: git
 featured: true

@@ -1,8 +1,8 @@
 slug: c/js-interviews
 name: JavaScript Interview Questions
-shortName: Interview Questions
+miniName: Interview Questions
 featured: true
-parent: collection/js
+parent: js
 snippetIds:
   - articles/s/javascript-equality
   - articles/s/javascript-truthy-falsy-values

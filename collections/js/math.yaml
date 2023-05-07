@@ -1,7 +1,9 @@
 slug: js/t/math
 name: JavaScript Math Snippets
-shortName: Math
-parent: collection/js
+shortName: JavaScript Math
+miniName: Math
+featured: true
+parent: js
 languageMatcher: javascript
 tagMatcher: math
 description: >-
@@ -10,6 +12,5 @@ description: >-
   objects, as well as algorithms, DOM manipulation functions and Node.js
   utilities.
 shortDescription: >-
-  Browse a wide variety of ES6 helper functions, including array operations, DOM
-  manipulation, algorithms and Node.js utilities.
+  A snippet collection of math helpers and algorithms implemented in JavaScript.
 splash: mobile.png

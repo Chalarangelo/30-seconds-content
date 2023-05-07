@@ -1,7 +1,9 @@
 slug: git/t/commit
 name: Git Commit Snippets
-shortName: Commit
-parent: collection/git
+shortName: Git Commits
+miniName: Commit
+featured: true
+parent: git
 languageMatcher: git
 tagMatcher: commit
 description: >-
@@ -10,6 +12,6 @@ description: >-
   and covers various use-cases in the form of simplified documentation, complete
   with multiple examples.
 shortDescription: >-
-  A snippet collection of simplified git documentation and tips, covering most
-  commonly-used commands and covering various use-cases.
+  A snippet collection of simplified git documentation and tips covering git
+  commit commands.
 splash: keyboard-coffee.png

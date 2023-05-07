@@ -17,6 +17,5 @@ description: >-
   collection covers the basics of promises and how to use them to handle
   everyday operations, as well as some more advanced topics.
 shortDescription: >-
-  JavaScript promises provide a modern and elegant way to to handle asynchronous
-  operations. This snippet collection covers the basics of promises and how to
-  use them in your code.
+  This snippet collection covers the basics of JavaScript promises and how to
+  use them to handle asynchronous operations in your code.

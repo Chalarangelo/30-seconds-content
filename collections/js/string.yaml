@@ -1,7 +1,8 @@
 slug: js/t/string
 name: JavaScript String Snippets
-shortName: String
-parent: collection/js
+miniName: String
+featured: true
+parent: js
 languageMatcher: javascript
 tagMatcher: string
 description: >-
@@ -10,6 +11,5 @@ description: >-
   objects, as well as algorithms, DOM manipulation functions and Node.js
   utilities.
 shortDescription: >-
-  Browse a wide variety of ES6 helper functions, including array operations, DOM
-  manipulation, algorithms and Node.js utilities.
+  Master string manipulation in JavaScript with this ES6 snippet collection.
 splash: laptop-plant.png
